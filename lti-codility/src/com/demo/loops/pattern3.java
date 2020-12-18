@@ -16,6 +16,8 @@ public class pattern3 {
 				 System.out.print(i);
 			 }
 			 System.out.println(" ");
+			 //changes done 
+			 System.out.println("Apoorva in pattern3 file");
 		 }
 	}
 }
