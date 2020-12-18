@@ -19,6 +19,7 @@ public class pattern3 {
 			 System.out.println("Bonjour");
 			 //changes done 
 			 System.out.println("Namaste");
+			 System.out.println("cool");
 			 //comment
 			 System.out.println("Apoorva in pattern3 file");
 		 }
