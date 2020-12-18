@@ -22,6 +22,7 @@ public class pattern3 {
 			 System.out.println("cool");
 
 			 System.out.println("cool2");
+			 System.out.println("jug");
 
 			 System.out.println("Apoorva in pattern3 file");
 		 }
